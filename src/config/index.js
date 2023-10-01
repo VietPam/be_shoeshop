@@ -19,8 +19,7 @@ module.exports = {connect}*/
 
 const mongoose = require('mongoose')
 //ket noi phan mem voi mongodb qua string duoi
-const connectString = "mongodb+srv://shoeshop:shoeshop@cluster0.zuncuhq.mongodb.net/?retryWrites=true&w=majority"
-// mongodb+srv://admin1:admin1@housewarewebsitecluster.pre3w.mongodb.net/cigstore?retryWrites=true&w=majority
+const connectString = "mongodb+srv://killerdroy:vietpham1701@cluster0.wncdqz6.mongodb.net/"
 
 
 const connect = async () =>{
